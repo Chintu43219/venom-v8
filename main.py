@@ -42,7 +42,7 @@ TOKEN = '7245510353:AAGxra7164KMN5uNB74aKEqpgOfGLTzcVEc'
 bot = telebot.TeleBot(TOKEN, threaded=False)
 
 # 🛡️ List of authorized user IDs (replace with actual IDs)
-AUTHORIZED_USERS = [5588464519]
+AUTHORIZED_USERS = [6508557076]
 
 # 🌐 Global dictionary to keep track of user attacks
 user_attacks = {}
